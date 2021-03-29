@@ -1,39 +1,33 @@
 body{
-    margin : 30px;
+    margin : 0px;
+   
 }
 .first-container{
   
-    border: 100px ;
+    border: 2px solid black ;
+    height: 100vh;
 
 }
 
-.my-col{
-    
-    width: 200px;
-    height: 500px;
-    background-color: antiquewhite; 
-}
+
 
 .btn-secondary{
    margin: 40px;;
-   
-    width: 100px;
-    height: 50px;
-
 }
-.col-2{
-    background-color: rgb(252, 188, 198);
-}
-.col-4{
-    background-color :rgb(216, 202, 204);
-}
-.col-6{
-  background-color: salmon;
-}
-
 .card-subtitle{
-    margin-left: 150px;
+    float:right;
    
 }
+#right-col
+{
+    background-color: rgb(101, 168, 255);
+}
+#mid-col{
+    background-color :rgb(74, 153, 255);
+}
+#left-col {
+    background-color: rgb(50, 139, 255);
+}
+
 
 
